@@ -8,4 +8,7 @@
 
 2. create a new virtual enviroment using python
 
+
 3. pip install requirements.txt file
+
+4. testing stash
